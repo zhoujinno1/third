@@ -1,0 +1,9 @@
+
+	html,body,ul,li,div,h3,h4,h5,h6,input,img,p,form{
+		margin: 0;padding: 0;
+	}
+
+a{text-decoration: none;}
+li{
+	list-style: none;
+}
